@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Fitbot</title>
+        <link rel="stylesheet" href="/static/style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div class="wrapper">
+            <h1>FitBot from Vitality</h1>
+            <h2>A personal health assistant powered by AI designed to assist first-gen, low-income students with improving their health and overall wellness.</h2>
+            
+            <form method="post" action="/">
+                <h2>FitBot says...</h2>
+                <textarea class="response-box" name="response" id="response" placeholder="FitBot's response will be displayed here!" readonly>{{ response|escape }}</textarea>
+                <textarea class="question-box" name="question" id="question" placeholder="Ask FitBot about health and wellness here!"></textarea>
+                <div class="btn-container">
+                    <input class="form_submit form_input" type="submit" value="Ask FitBot!" />
+                    <button class="form_submit" type="button" onclick="location.href='https://studio.code.org/projects/applab/ljZPuAhwnTlv6uABOYfYiQgTaAGgSZdRAciUTpOX3s8'"">Go Back to Vitality</button>
+                </div>
+            </form>
+
+        </div>
+    </body>
+</html>
