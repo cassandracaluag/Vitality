@@ -34,8 +34,20 @@ In the long run, I plan to code the main app (from Code.org) into a more widely 
 - Press 'Sign Up' and input a username, password, and your first name.
 - Press 'Sign Up' button
 - If account already exists, follow directions on the red button.
-- You should be on the menu. The menu displays three buttons - the core features of Vitality. Press on the one that you would like to access.
-- ## Resilience Reminders:
-- ldkfsldk
 ### For Returning Users:
+- Press 'Login' and input your username and password.
+- Press 'Login' button.
+- If a red button emerges, you don't have an account yet - make one by pressing the red button.
+- You should now be on the menu. The menu displays three buttons - the core features of Vitality. Press on the one that you would like to access.
+## Resilience Reminders:
+- Press the left (back) and right (forward) buttons to scroll through each of the Resilience Reminders.
+- If you want to share your own insight, press the button that says 'Click Here to Share your Insight!'
+- Once pressed, fill out the fields. Remember to be respectful and kind, and not to share any sensitive information. If you would not like others to know your generalized location, input 'Location' for that given field.
+- Once filled out, press the 'Share' button.
+- You can share as many messages as you'd like.
+- Once done, you can click the 'Back' button, redirecting you to the page displaying all Resilience Reminders.
+- Click 'Back to Menu' once done with Resilience Reminders, and want to access other Vitality features.
+
+
+
   
