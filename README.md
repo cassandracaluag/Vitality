@@ -21,3 +21,6 @@ This hackathon was an invaluable learning experience, as I got to learn more abo
 
 ## What's next for Vitality
 In the long run, I plan to code the main app (from Code.org) into a more widely recognized IDE, such as VSCode. With that, I will plan on making FitBot accessible right from the main app, from which both components are on the same platform. I will also focus on adequately formatting the strings to enhance readability.
+
+## Setup and Execution Instructions
+- Download files from Github repository
