@@ -39,7 +39,7 @@ In the long run, I plan to code the main app (from Code.org) into a more widely 
 - Press 'Login' button.
 - If a red button emerges, you don't have an account yet - make one by pressing the red button.
 - You should now be on the menu. The menu displays three buttons - the core features of Vitality. Press on the one that you would like to access.
-## Resilience Reminders:
+### Resilience Reminders:
 - Press the left (back) and right (forward) buttons to scroll through each of the Resilience Reminders.
 - If you want to share your own insight, press the button that says 'Click Here to Share your Insight!'
 - Once pressed, fill out the fields. Remember to be respectful and kind, and not to share any sensitive information. If you would not like others to know your generalized location, input 'Location' for that given field.
@@ -47,7 +47,17 @@ In the long run, I plan to code the main app (from Code.org) into a more widely 
 - You can share as many messages as you'd like.
 - Once done, you can click the 'Back' button, redirecting you to the page displaying all Resilience Reminders.
 - Click 'Back to Menu' once done with Resilience Reminders, and want to access other Vitality features.
-
+### Journaling:
+- Press the left (back) and right (forward) buttons to scroll through each of the journaling prompts.
+- Once you've found a prompt you'd like to write about, press 'Choose this Prompt'
+- Fill out the given field under 'Write your response.' Again, don't share sensitive information.
+- Once done, press 'Share.'
+- You are now back in the Journaling main page.
+- If you want to see your past entries, click 'See your Past Entries'
+- Press the left (back) and right (forward) buttons to scroll through each of your journaling prompts.
+- Click 'Back' when satisfied.
+- Click 'Back to Menu' once done with Journaling, and want to access other Vitality features.
+### FitBot (Health & Wellness Chatbot)
 
 
   
