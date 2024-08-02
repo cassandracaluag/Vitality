@@ -28,3 +28,14 @@ In the long run, I plan to code the main app (from Code.org) into a more widely 
 ### If you only want to access FitBot:
 - Open [FitBot from Vitality](https://vitality-fitbot.vercel.app/).
   
+## Step-by-Step Guide
+- Open [Vitality](https://studio.code.org/projects/applab/ljZPuAhwnTlv6uABOYfYiQgTaAGgSZdRAciUTpOX3s8).
+### For New Users:
+- Press 'Sign Up' and input a username, password, and your first name.
+- Press 'Sign Up' button
+- If account already exists, follow directions on the red button.
+- You should be on the menu. The menu displays three buttons - the core features of Vitality. Press on the one that you would like to access.
+- ## Resilience Reminders:
+- ldkfsldk
+### For Returning Users:
+  
