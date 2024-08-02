@@ -57,7 +57,17 @@ In the long run, I plan to code the main app (from Code.org) into a more widely 
 - Press the left (back) and right (forward) buttons to scroll through each of your journaling prompts.
 - Click 'Back' when satisfied.
 - Click 'Back to Menu' once done with Journaling, and want to access other Vitality features.
-### FitBot (Health & Wellness Chatbot)
+### FitBot (Health & Wellness Chatbot):
+- Code.org is displaying an alert - you are about to leave to go to FitBot's deployed website.
+- Click 'Continue'
+- Press on the field that says 'Ask FitBot about health and wellness here!' and input whatever you want to say to FitBot.
+- Press 'Ask FitBot!'
+- Because the AI taking time to generate a response, it will likely take a while, according to how complex your input is.
+- The output to your question will be in the big white box under 'FitBot says...'
+- Once done with FitBot, click 'Go Back to Vitality,' where you will be redirected to the Vitality login.
+
+## Contribution Guidelines
+### Adheres to MIT License
 
 
   
