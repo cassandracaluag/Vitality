@@ -33,11 +33,12 @@ In the long run, I plan to code the main app (from Code.org) into a more widely 
 ### For New Users:
 - Press 'Sign Up' and input a username, password, and your first name.
 - Press 'Sign Up' button
-- If account already exists, follow directions on the red button.
+- If username is taken, follow directions on the red button.
 ### For Returning Users:
 - Press 'Login' and input your username and password.
 - Press 'Login' button.
 - If a red button emerges, you don't have an account yet - make one by pressing the red button.
+  
 - You should now be on the menu. The menu displays three buttons - the core features of Vitality. Press on the one that you would like to access.
 ### Resilience Reminders:
 - Press the left (back) and right (forward) buttons to scroll through each of the Resilience Reminders.
