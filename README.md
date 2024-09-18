@@ -69,8 +69,5 @@ In the long run, I plan to code the main app (from Code.org) into a more widely 
 - The output to your question will be in the big white box under 'FitBot says...'
 - Once done with FitBot, click 'Go Back to Vitality,' where you will be redirected to the Vitality login.
 
-## Contribution Guidelines
-### Adheres to MIT License
-
 
   
